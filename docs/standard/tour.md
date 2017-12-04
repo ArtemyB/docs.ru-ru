@@ -67,7 +67,7 @@ ms.lasthandoff: 10/18/2017
 Дополнительные сведения см в следующих разделах.
 
 * Для C# — [Оператор using (Справочник по C#)](../csharp/language-reference/keywords/using-statement.md).
-* Для For F# — [Управление ресурсами: ключевое слово use](../fsharp/language-reference/resource-management-the-use-keyword.md).
+* Для F# — [Управление ресурсами: ключевое слово use](../fsharp/language-reference/resource-management-the-use-keyword.md).
 * Для VB — [Оператор Using (Visual Basic)](../visual-basic/language-reference/statements/using-statement.md).
 
 ## <a name="type-safety"></a>Безопасность типа
